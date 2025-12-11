@@ -1,0 +1,4 @@
+Raghavan is a passionate Software Developer from Chennai with strong foundations in Java, Spring Boot, PostgreSQL, Data Structures & Algorithms, and modern frontend development using React and JavaScript.
+He has hands-on experience building scalable backend systems, RESTful APIs, and responsive web applications, along with practical exposure to tools like Git, Postman, Maven, and basic AWS services. 
+He has interned at ShootUp Technologies, where he worked on React, PHP backend, and DocuSign API integration, and completed the SEGUE Graduate Engineer Training Program at Hexaware Technologies with focused training in Core Java, OOP, and SQL. 
+A consistent problem solver who practices regularly on LeetCode, Raghavan is eager to contribute as a Software Developer, Backend Engineer, or Full-Stack Developer—bringing strong technical skills, a willingness to learn, and a drive to build impactful software products.
